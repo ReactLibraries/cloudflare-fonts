@@ -10,6 +10,8 @@ Adjusts output content so that React hydration does not fail if Cloudflare rewri
 
 <https://cloudflare-fonts.croud.jp/>
 
+<https://github.com/SoraKumo001/react-router-cloudflare-fonts>
+
 ## Easiest example.
 
 Shows how to use `Cloudflare Fonts` on the `React Router`.
